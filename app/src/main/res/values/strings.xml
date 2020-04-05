@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">assignment 2</string>
+    <string name="upload">Upload Cover Picture</string>
+    <string name="name">username</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="conPass">confirm password</string>
+    <string name="month">month</string>
+    <string name="day">day</string>
+    <string name="year">year</string>
+    <string name="getStart">GET STARTED</string>
+    <string name="terms">Terms and Conditions</string>
 </resources>
